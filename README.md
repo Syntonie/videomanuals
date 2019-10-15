@@ -8,3 +8,7 @@ It is still a work in progress so if you find some documentation that is not lis
 
 Naming goes: BRAND_MODEL_xM (OM: owners manual, SM: Service manual)
 
+
+Contact:
+
+bastien@syntonie.fr
