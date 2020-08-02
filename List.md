@@ -109,11 +109,15 @@ Last updated: 08/02/2020
 
 
 
-### Roland
+### Roland+Edirol
 
-[Roland_V8_SM_part1of2.pdf](Roland/Roland_V8_SM_part1of2.pdf)
+[Edirol_V4_OM.pdf](Roland+Edirol/Edirol_V4_OM.pdf)
 
-[Roland_V8_SM_part2of2.pdf](Roland/Roland_V8_SM_part2of2.pdf)
+[Edirol_V4_SM.pdf](Roland+Edirol/Edirol_V4_SM.pdf)
+
+[Roland_V8_SM_part1of2.pdf](Roland+Edirol/Roland_V8_SM_part1of2.pdf)
+
+[Roland_V8_SM_part2of2.pdf](Roland+Edirol/Roland_V8_SM_part2of2.pdf)
 
 
 
