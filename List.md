@@ -51,6 +51,8 @@ Last updated: 08/02/2020
 
 [Snell-Wilcox_MagicDave_PM.pdf](Other/Snell-Wilcox_MagicDave_PM.pdf)
 
+[Vivanco_VM5000_OM_DE.pdf](Other/Vivanco_VM5000_OM_DE.pdf)
+
 
 
 ### Panasonic

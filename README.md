@@ -14,6 +14,9 @@ Contact:
 [bastien@syntonie.fr](mailto:bastien@syntonie.fr)
 
 
+For digitising a physical manual, [Scannable](https://evernote.com/intl/en_uk/products/scannable) works well.
+
+
 ## Archive
 
 Last updated: 08/02/2020
@@ -66,6 +69,8 @@ Last updated: 08/02/2020
 [Snell-Wilcox_MagicDave_8DOE_4DE_4DOE_v3.0_OM.pdf](Other/Snell-Wilcox_MagicDave_8DOE_4DE_4DOE_v3.0_OM.pdf)
 
 [Snell-Wilcox_MagicDave_PM.pdf](Other/Snell-Wilcox_MagicDave_PM.pdf)
+
+[Vivanco_VM5000_OM_DE.pdf](Other/Vivanco_VM5000_OM_DE.pdf)
 
 
 
@@ -222,6 +227,8 @@ Last updated: 08/02/2020
 [Videonics_TM-3000_OM.pdf](Videonics/Videonics_TM-3000_OM.pdf)
 
 [Videonics_VE-1_OM.pdf](Videonics/Videonics_VE-1_OM.pdf)
+
+
 
 
 
