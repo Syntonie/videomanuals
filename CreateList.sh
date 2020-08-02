@@ -22,6 +22,8 @@ urlencode() {
 
 index = 1
 echo -e "## Archive\n" > $1
+now=$(date +"%m/%d/%Y")
+echo -e "Last updated: $now\n\n" >> $1
 for f in *
 do
 	if [ -d "$f" ]; then
