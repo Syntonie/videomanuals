@@ -13,13 +13,18 @@ Contact:
 
 [bastien@syntonie.fr](mailto:bastien@syntonie.fr)
 
-
 For digitising a physical manual, [Scannable](https://evernote.com/intl/en_uk/products/scannable) works well.
+
+To auto-generate a markdown list of manuals, use `CreateList.sh` script with argument $1 as the output file:
+
+```
+./CreateList.sh List.md
+```
 
 
 ## Archive
 
-Last updated: 08/19/2020
+Last updated: 08/11/2021
 
 
 ### Datavideo
@@ -74,35 +79,43 @@ Last updated: 08/19/2020
 
 [Vivanco_VM5000_OM_DE.pdf](Other/Vivanco_VM5000_OM_DE.pdf)
 
+[autrs-dave-quickstart.md](Other/autrs-dave-quickstart.md)
+
 
 
 ### Panasonic
 
-[Panasonic_AG-HMX100_RS232C_protocol.pdf](Panasonic/Panasonic_AG-HMX100_RS232C_protocol.pdf)
+[PANASONIC_WJ-TTL5E_OM.pdf](Panasonic/PANASONIC_WJ-TTL5E_OM.pdf)
 
-[Panasonic_AG-MX70_mxnavi_software.rar](Panasonic/Panasonic_AG-MX70_mxnavi_software.rar)
+[PANASONIC_WJ-TTL5E_SM.pdf](Panasonic/PANASONIC_WJ-TTL5E_SM.pdf)
+
+[PANASONIC_WV-KB12_OM.pdf](Panasonic/PANASONIC_WV-KB12_OM.pdf)
+
+[Panasonic_AG-HMX100_RS232C_protocol.pdf](Panasonic/Panasonic_AG-HMX100_RS232C_protocol.pdf)
 
 [Panasonic_AG-MX70_OM.pdf](Panasonic/Panasonic_AG-MX70_OM.pdf)
 
 [Panasonic_AG-MX70_SM.pdf](Panasonic/Panasonic_AG-MX70_SM.pdf)
 
+[Panasonic_AG-MX70_mxnavi_software.rar](Panasonic/Panasonic_AG-MX70_mxnavi_software.rar)
+
 [Panasonic_WJ-AVE3_OM.pdf](Panasonic/Panasonic_WJ-AVE3_OM.pdf)
 
 [Panasonic_WJ-AVE3_SM.pdf](Panasonic/Panasonic_WJ-AVE3_SM.pdf)
-
-[Panasonic_WJ-AVE5_OM.pdf](Panasonic/Panasonic_WJ-AVE5_OM.pdf)
-
-[Panasonic_WJ-AVE5_SM.pdf](Panasonic/Panasonic_WJ-AVE5_SM.pdf)
 
 [Panasonic_WJ-AVE55_Excel_Control_About.doc](Panasonic/Panasonic_WJ-AVE55_Excel_Control_About.doc)
 
 [Panasonic_WJ-AVE55_OM.pdf](Panasonic/Panasonic_WJ-AVE55_OM.pdf)
 
+[Panasonic_WJ-AVE55_SM.pdf](Panasonic/Panasonic_WJ-AVE55_SM.pdf)
+
 [Panasonic_WJ-AVE55_Serial_Controller.xls](Panasonic/Panasonic_WJ-AVE55_Serial_Controller.xls)
 
 [Panasonic_WJ-AVE55_Serial_Controller_RS232_ActiveX.zip](Panasonic/Panasonic_WJ-AVE55_Serial_Controller_RS232_ActiveX.zip)
 
-[Panasonic_WJ-AVE55_SM.pdf](Panasonic/Panasonic_WJ-AVE55_SM.pdf)
+[Panasonic_WJ-AVE5_OM.pdf](Panasonic/Panasonic_WJ-AVE5_OM.pdf)
+
+[Panasonic_WJ-AVE5_SM.pdf](Panasonic/Panasonic_WJ-AVE5_SM.pdf)
 
 [Panasonic_WJ-AVE7_SM.pdf](Panasonic/Panasonic_WJ-AVE7_SM.pdf)
 
@@ -126,12 +139,6 @@ Last updated: 08/19/2020
 
 [Panasonic_WJ-MX50_SM.PDF](Panasonic/Panasonic_WJ-MX50_SM.PDF)
 
-[PANASONIC_WJ-TTL5E_OM.pdf](Panasonic/PANASONIC_WJ-TTL5E_OM.pdf)
-
-[PANASONIC_WJ-TTL5E_SM.pdf](Panasonic/PANASONIC_WJ-TTL5E_SM.pdf)
-
-[PANASONIC_WV-KB12_OM.pdf](Panasonic/PANASONIC_WV-KB12_OM.pdf)
-
 
 
 ### Roland+Edirol
@@ -152,8 +159,6 @@ Last updated: 08/19/2020
 
 ### Sanyo
 
-[placeholder](Sanyo/placeholder)
-
 [Sanyo_XF31_SM.pdf](Sanyo/Sanyo_XF31_SM.pdf)
 
 [Sanyo_XP100_SM.pdf](Sanyo/Sanyo_XP100_SM.pdf)
@@ -161,6 +166,8 @@ Last updated: 08/19/2020
 [Sanyo_XP46_SM.pdf](Sanyo/Sanyo_XP46_SM.pdf)
 
 [Sanyo_XP50_SM.pdf](Sanyo/Sanyo_XP50_SM.pdf)
+
+[placeholder](Sanyo/placeholder)
 
 
 
@@ -228,6 +235,8 @@ Last updated: 08/19/2020
 
 [SONY_PVM-9L2_SM.pdf](Sony/SONY_PVM-9L2_SM.pdf)
 
+[Sony_FXE100_OM.pdf](Sony/Sony_FXE100_OM.pdf)
+
 [Sony_XV-T550_SM+OM.pdf](Sony/Sony_XV-T550_SM+OM.pdf)
 
 
@@ -238,14 +247,16 @@ Last updated: 08/19/2020
 
 [Videonics_MX-1_SM.pdf](Videonics/Videonics_MX-1_SM.pdf)
 
+[Videonics_MXPRODV_OM.pdf](Videonics/Videonics_MXPRODV_OM.pdf)
+
 [Videonics_MXPRO_OM.pdf](Videonics/Videonics_MXPRO_OM.pdf)
 
 [Videonics_MXPRO_SM.pdf](Videonics/Videonics_MXPRO_SM.pdf)
 
-[Videonics_MXPRODV_OM.pdf](Videonics/Videonics_MXPRODV_OM.pdf)
-
 [Videonics_TM-2000_OM.pdf](Videonics/Videonics_TM-2000_OM.pdf)
 
 [Videonics_TM-3000_OM.pdf](Videonics/Videonics_TM-3000_OM.pdf)
+
+[Videonics_TM-3000_SM.pdf](Videonics/Videonics_TM-3000_SM.pdf)
 
 [Videonics_VE-1_OM.pdf](Videonics/Videonics_VE-1_OM.pdf)
