@@ -1,7 +1,7 @@
 # Video Manuals Archive
 
 Archival library of owner and service manuals for old video gear, including video mixers, processors, effect generators and CRTs (only Sony PVM for now) I've gathered for repair or modifications purposes.
-Most of them were found for free online, thanks to [manualslib.com](manualslib.com), [elektrotanya.com](elektrotanya.com), [archive.org](archive.org) or user HeWhoWantsJeans from [modwigglers.com](modwigglers.com) forum who scanned his VE-1 manual.
+Most of them were found for free online, thanks to [manualslib.com](manualslib.com), [elektrotanya.com](elektrotanya.com), [archive.org](archive.org) or user HeWhoWantsJeans from [modwiggler.com](modwiggler.com) forum who scanned his VE-1 manual.
 
 It is still a work in progress so if you find some documentation that is not listed and you feel it's relevent having it here, write me and I'll be happy to add it to the library.
 
